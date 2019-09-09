@@ -1,0 +1,10 @@
+[ 
+   { 
+      "name":"ipfs.io",
+      "url":"https://ipfs.io/ipfs/"
+   },
+   { 
+      "name":"ipfs.infura.io",
+      "url":"https://ipfs.infura.io/ipfs/"
+   }
+]
